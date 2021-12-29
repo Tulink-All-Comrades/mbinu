@@ -1,7 +1,7 @@
 ---
 date: '2021-03-28'
 thumbnail: /assets/how-to-make-stock-from-kelp-and-bonito-flakes.jpeg
-title: How to Make Stock from Kelp and Bonito Flakes
+title: Introduction to Next.js and TypeScript
 description: The soup stock from sea kelp and dried bonito flakes can be used in many Japanese food such as miso soup, soba, udon, and stew.
 yields: 800 ml
 ingredients: ['1000 ml water', '10 grams dried kelp', '40 grams bonito flakes']
