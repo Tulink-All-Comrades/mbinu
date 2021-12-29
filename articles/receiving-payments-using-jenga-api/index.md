@@ -17,7 +17,8 @@ tips:
   [
     'The white powder on the surface of dried kelp is "umami", so do not remove it.',
   ]
-category: frontend
+category: apis
+author: kennedy-mwangi
 ---
 
 <Ingredients />
