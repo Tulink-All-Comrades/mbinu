@@ -1,7 +1,7 @@
 ---
 date: '2022-11-21'
-thumbnail: /assets/implementing-jenga-account-balance-api-on-a-restful-node-js-api/hero.jpg
-title: Implementing Jenga API using Node.js
+thumbnail: assets/implementing-jenga-account-balance-api-on-a-restful-node-js-api/hero.jpg
+title: Implementing Jenga Account Balance API using Node.js
 description: Implementing Jenga Account Balance API on a RESTful Node.js API.
 category: backend
 author: kennedy-mwangi
