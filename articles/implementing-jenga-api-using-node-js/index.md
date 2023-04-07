@@ -1,6 +1,6 @@
 ---
 date: '2022-11-21'
-thumbnail: /assets/article_heros/jenga_account_inquiry/hero.jpg
+thumbnail: /assets/hero.jpg
 title: Implementing Jenga Account Balance API using Node.js
 description: Implementing Jenga Account Balance API on a RESTful Node.js API.
 category: backend
